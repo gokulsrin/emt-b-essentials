@@ -1,0 +1,34 @@
+[deck]
+title       = "EMT-B Essentials"
+summary     = "High-yield, NREMT-aligned EMT-Basic deck — assessment, airway, cardiology, trauma, medical, pharm, peds, operations."
+description = """
+231-card atomic EMT-Basic deck built for the National Registry (NREMT)
+cognitive exam content outline: Scene Size-Up & Safety, Primary Assessment,
+Secondary Assessment, Patient Treatment & Transport, and Operations.
+
+Cards follow the AnKing-style standards documented in `decks/CARD_STANDARDS.md`:
+strict atomicity (≤3 cloze deletions per card, with the named-list exception
+for triads/criteria/protocols), `<b>` for key clinical terms, `<u>` for
+buzzwords/pathognomonic findings, hint syntax for ambiguous answer types,
+no parenthetical giveaways, and Extra fields reserved for plain supporting
+context.
+
+Designed as a cleaner alternative to community EMT-B decks: no typos, no
+giant list-dump cards, no sequential c1/c2/c3 numbering on same-level items,
+and explicit emphasis on the things examiners actually probe — oxygen device
+flow rates, airway adjunct sizing, drug indications & contraindications,
+vital sign normals across age groups, and the shock/trauma/respiratory
+decision points that anchor most NREMT items.
+"""
+keywords    = ["emt", "emt-b", "nremt", "ems", "first-responder"]
+
+[sync]
+media_root = "media/"
+
+[[models]]
+name   = "Basic"
+fields = ["Front", "Back", "Extra"]
+
+[[models]]
+name   = "Cloze"
+fields = ["Text", "Extra"]

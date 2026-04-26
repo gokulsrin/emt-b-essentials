@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "chest", "pneumothorax"]
 
 ## Text
 
-EMT-level treatment of suspected <b>tension pneumothorax</b> from a sealed chest wound: {{c1::lift one corner of the occlusive dressing::intervention}} to release trapped air, then rapid transport with ALS intercept.
+EMT-level treatment of suspected <b>tension pneumothorax</b> from a sealed chest wound: {{c1::lift one corner of the occlusive dressing::intervention}} to <u>release trapped air</u>, then rapid transport with ALS intercept.
 
 ## Extra
 

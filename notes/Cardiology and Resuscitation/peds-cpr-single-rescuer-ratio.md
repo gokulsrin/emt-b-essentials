@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "pediatrics", "infant"]
 
 ## Text
 
-<b>Single-rescuer CPR</b> compression-to-ventilation ratio for children and infants: {{c1::30:2::ratio}}.
+<b>Single-rescuer CPR</b> compression-to-ventilation ratio for children and infants: {{c1::30:2::ratio}} — same as adult single-rescuer.
 
 ## Extra
 

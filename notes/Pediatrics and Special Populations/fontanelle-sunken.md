@@ -6,8 +6,8 @@ tags  = ["emt", "pediatrics", "fontanelle", "infant"]
 
 ## Text
 
-A <u>sunken / depressed</u> anterior fontanelle in an infant suggests {{c1::dehydration::clinical concern}}.
+A <u>sunken / depressed</u> anterior fontanelle in an infant suggests {{c1::dehydration::clinical concern}}; a normal fontanelle is {{c2::soft and flat::quality}}.
 
 ## Extra
 
-Common causes: vomiting, diarrhea, poor feeding, heat exposure. A normal fontanelle is soft and flat; gentle pulsation can be normal. Always assess with the infant calm and upright.
+Common causes: vomiting, diarrhea, poor feeding, heat exposure. Gentle pulsation of the fontanelle is normal. Always assess with the infant calm and upright.

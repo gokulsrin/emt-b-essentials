@@ -6,8 +6,8 @@ tags  = ["emt", "pediatrics", "airway", "anatomy"]
 
 ## Text
 
-In pediatric patients, the proportionally <b>larger head and tongue</b> can {{c1::occlude the airway::complication}} when the child is {{c2::supine::position}}.
+In pediatric patients, the proportionally <b>larger occiput and tongue</b> can cause <u>airway occlusion</u> when the child is {{c1::supine::position}} because the occiput {{c2::flexes the neck forward::mechanism}}, kinking the airway.
 
 ## Extra
 
-This is why positioning is critical in pediatric airway management. The large occiput flexes the neck forward when supine, kinking the airway.
+This is why positioning is critical in pediatric airway management. A folded towel under the shoulders corrects the flex and restores airway alignment.

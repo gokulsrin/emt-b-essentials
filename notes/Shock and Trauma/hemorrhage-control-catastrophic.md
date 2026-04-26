@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "hemorrhage", "tourniquet"]
 
 ## Text
 
-For massive arterial <b>extremity</b> hemorrhage, the <b>first</b> intervention is {{c1::tourniquet::intervention}}, not direct pressure.
+For <u>catastrophic</u> arterial <b>extremity</b> hemorrhage, the <b>first</b> intervention is {{c1::tourniquet::intervention}}, not direct pressure.
 
 ## Extra
 

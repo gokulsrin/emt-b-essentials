@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "lifting", "moving"]
 
 ## Text
 
-A <b>non-urgent move</b> is the {{c1::default::when used}} patient move: controlled, with full packaging and assessment completed before transport.
+A <b>non-urgent move</b> is used when {{c1::the scene is safe and no immediate life threat exists::condition}}; it allows full packaging and assessment before transport.
 
 ## Extra
 

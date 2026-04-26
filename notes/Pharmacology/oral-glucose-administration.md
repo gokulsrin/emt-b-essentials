@@ -6,7 +6,7 @@ tags  = ["emt", "pharm", "oral_glucose", "dose", "administration"]
 
 ## Text
 
-<b>Oral glucose</b> dose: {{c1::15 g glucose gel tube::dose}} administered by {{c2::squeezing between cheek and gum::method}}, then recheck glucose/mental status in {{c2::10–15 minutes::timing}}.
+<b>Oral glucose</b> dose: {{c1::15 g glucose gel tube::dose}} administered by {{c1::squeezing between cheek and gum::method}}, then recheck glucose/mental status in {{c1::10–15 minutes::timing}}.
 
 ## Extra
 

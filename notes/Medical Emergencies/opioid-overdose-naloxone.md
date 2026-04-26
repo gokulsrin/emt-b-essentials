@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "overdose", "opioid", "naloxone"]
 
 ## Text
 
-For <b>opioid overdose</b>: open the airway and ventilate with <b>BVM</b> first, then give <b>naloxone</b> {{c1::2–4 mg intranasal::dose/route}} (split between nostrils) — titrate to {{c2::adequate respirations::goal}}, not full alertness.
+For <b>opioid overdose</b>: open the airway and ventilate with <b>BVM</b> first, then give <b>naloxone</b> {{c1::2–4 mg intranasal::dose/route}} split between nostrils — titrate to {{c2::adequate respirations::goal}}, not full alertness, to avoid precipitating withdrawal.
 
 ## Extra
 

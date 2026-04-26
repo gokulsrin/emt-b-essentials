@@ -6,7 +6,7 @@ tags  = ["emt", "airway", "respiratory", "lung_sounds"]
 
 ## Text
 
-<u>Diminished or absent</u> breath sounds suggest {{c1::pneumothorax}}, {{c1::severe asthma ("quiet chest")}}, or {{c1::atelectasis}}.
+<u>Diminished or absent</u> <b>breath sounds</b> suggest {{c1::pneumothorax}}, {{c1::severe asthma ("quiet chest")}}, or {{c1::atelectasis}}.
 
 ## Extra
 

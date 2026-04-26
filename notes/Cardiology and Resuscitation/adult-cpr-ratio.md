@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha"]
 
 ## Text
 
-Adult <b>CPR</b> compression-to-ventilation ratio (no advanced airway): {{c1::30:2::ratio}}.
+Adult <b>CPR</b> compression-to-ventilation ratio <u>without advanced airway</u>: {{c1::30:2::ratio}}.
 
 ## Extra
 

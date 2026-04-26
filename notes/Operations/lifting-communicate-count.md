@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "lifting", "moving", "ergonomics"]
 
 ## Text
 
-Before lifting, plan the move and {{c1::communicate the count::coordination step}} with your partner so the load moves in sync.
+Before lifting, always {{c1::communicate the count (e.g., "ready, set, lift")::coordination step}} with your partner so the load moves in sync.
 
 ## Extra
 

@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "chest", "open_pneumothorax"]
 
 ## Text
 
-Treatment of a <b>sucking chest wound</b>: apply a commercial vented chest seal, or an <u>occlusive dressing taped on three sides</u>, leaving {{c1::one side open::which side}} as a flutter valve.
+Treatment of a <b>sucking chest wound</b>: apply a commercial vented chest seal, or an <u>occlusive dressing taped on three sides</u>, leaving {{c1::one side unsealed::which side}} as a flutter valve.
 
 ## Extra
 

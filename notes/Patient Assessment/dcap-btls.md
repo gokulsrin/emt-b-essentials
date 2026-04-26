@@ -6,7 +6,7 @@ tags  = ["emt", "assessment", "trauma", "dcap_btls"]
 
 ## Text
 
-<b>DCAP-BTLS</b> — findings to look for during the <b>head-to-toe</b> trauma assessment:
+<b>DCAP-BTLS</b> — findings assessed by <u>inspect and palpate</u> during the <b>head-to-toe</b> trauma exam:
 
 <b>D</b> = {{c1::Deformity}}, <b>C</b> = {{c1::Contusions}}, <b>A</b> = {{c1::Abrasions}}, <b>P</b> = {{c1::Punctures / penetrations}}, <b>B</b> = {{c1::Burns}}, <b>T</b> = {{c1::Tenderness}}, <b>L</b> = {{c1::Lacerations}}, <b>S</b> = {{c1::Swelling}}.
 

@@ -11,4 +11,4 @@ tags  = ["emt", "trauma", "burns"]
 
 ## Extra
 
-Any airway burn is a time-critical emergency — progressive edema can close the airway within hours. Electrical burns often have a small entry/exit wound but massive internal injury along the conduction path. Circumferential burns of extremities can cause compartment syndrome.
+Any <u>airway burn</u> is a time-critical emergency — progressive edema can close the airway within hours. Electrical burns often have a small entry/exit wound but massive internal injury along the conduction path. Circumferential burns of extremities can cause compartment syndrome.

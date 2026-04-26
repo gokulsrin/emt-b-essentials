@@ -6,7 +6,7 @@ tags  = ["emt", "airway", "respiratory", "lung_sounds"]
 
 ## Text
 
-<u>Rhonchi</u> — coarse, low-pitched {{c1::gurgles or snoring sounds::character}} caused by {{c2::mucus in larger airways::cause}}; heard in bronchitis and pneumonia.
+<u>Rhonchi</u> — coarse, low-pitched {{c1::gurgles or snoring sounds::character}} caused by {{c2::mucus in larger airways::cause}}; heard in <b>bronchitis</b> and pneumonia.
 
 ## Extra
 

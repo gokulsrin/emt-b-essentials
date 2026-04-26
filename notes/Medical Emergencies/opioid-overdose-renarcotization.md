@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "overdose", "opioid", "naloxone"]
 
 ## Text
 
-<b>Naloxone</b>'s half-life is {{c1::shorter::shorter/longer}} than most opioids — the patient can {{c2::re-narcotize::complication}} after apparent recovery; transport even if they refuse.
+<b>Naloxone</b>'s half-life (~30–90 min) is {{c1::shorter::shorter/longer}} than most opioids — the patient can {{c2::re-narcotize (re-sedate)::complication}} after apparent recovery; transport is mandatory even if the patient refuses.
 
 ## Extra
 

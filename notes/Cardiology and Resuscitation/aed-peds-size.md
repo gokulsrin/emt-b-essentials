@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "aed", "special_cases", "pediatrics"]
 
 ## Text
 
-<b>AED</b> — child under 8 years or under 25 kg: use {{c1::pediatric pads / dose attenuator::first choice}} if available; if not available, {{c2::adult pads are acceptable::alternative}} (use anterior–posterior placement to prevent pad contact).
+<b>AED</b> — child under 8 years or under 25 kg: use {{c1::pediatric pads / dose attenuator::first choice}} if available; if unavailable, {{c2::adult pads::alternative}} are acceptable (use <u>anterior-posterior placement</u> to prevent pad contact).
 
 ## Extra
 

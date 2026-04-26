@@ -10,4 +10,4 @@ tags  = ["emt", "pharm", "nitroglycerin", "dose"]
 
 ## Extra
 
-Reassess BP and pain level before each repeat dose. Required parameter before each dose: SBP greater than 100 mmHg (some systems use 90). Patient must remain alert. Side effects include headache, hypotension, flushing, and reflex tachycardia.
+Reassess BP and pain level before each repeat dose. Required before each dose: SBP &gt; 100 mmHg (some systems use 90). Patient must remain alert. Side effects include headache, hypotension, flushing, and reflex tachycardia.

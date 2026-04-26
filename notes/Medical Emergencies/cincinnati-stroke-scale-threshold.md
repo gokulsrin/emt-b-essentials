@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "stroke", "cincinnati"]
 
 ## Text
 
-On the <b>Cincinnati Prehospital Stroke Scale</b>, {{c1::any one::how many}} positive finding(s) carries approximately {{c2::72%::percentage}} probability of stroke — activate a stroke alert.
+On the <b>Cincinnati Prehospital Stroke Scale</b>, {{c1::any one positive finding::threshold}} carries ~72% probability of stroke — activate a stroke alert immediately.
 
 ## Extra
 

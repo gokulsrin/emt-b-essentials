@@ -6,8 +6,8 @@ tags  = ["emt", "geriatric", "elderly", "cardiac"]
 
 ## Text
 
-In elderly patients, <b>MI</b> more often presents as {{c1::weakness, dyspnea, fatigue, or altered mental status}} rather than {{c2::crushing chest pain::classic symptom}}.
+In elderly patients, <b>MI</b> commonly presents as {{c1::weakness, dyspnea, or altered mental status::atypical symptoms}} rather than <u>crushing chest pain</u>.
 
 ## Extra
 
-Atypical presentations are common in geriatric patients across many conditions. Sepsis may present as confusion or falls without classic fever or tachycardia; pneumonia may present without cough — only confusion, weakness, or low-grade fever.
+Atypical presentations are common across geriatric emergencies: sepsis may lack fever; pneumonia may present as confusion alone. A low threshold for transport is warranted.

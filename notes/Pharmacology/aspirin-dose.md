@@ -6,8 +6,8 @@ tags  = ["emt", "pharm", "aspirin", "asa", "dose"]
 
 ## Text
 
-<b>Aspirin</b> dose for suspected <b>ACS</b>: {{c1::324 mg::dose}} given as {{c2::4 × 81 mg baby aspirin, chewed and swallowed::form/method}}.
+<b>Aspirin</b> dose for suspected <b>ACS</b>: {{c1::162–324 mg::dose}} — typically {{c2::4 × 81 mg baby aspirin, chewed not swallowed::form/method}}.
 
 ## Extra
 
-Chewing produces significantly faster onset than swallowing whole because absorption begins in the buccal mucosa. Faster absorption = faster platelet inhibition at a time when minutes matter.
+Chewing starts buccal absorption immediately, producing faster platelet inhibition than swallowing whole tablets. The underline on "chewed" reflects an NREMT-tested detail: method matters, not just dose.

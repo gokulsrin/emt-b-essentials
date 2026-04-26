@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "seizure"]
 
 ## Text
 
-<b>Status epilepticus</b> is defined as a seizure lasting ≥ {{c1::5 minutes::duration}}, or repeated seizures {{c2::without return to baseline between them::qualifier}} — treat as a true emergency and request {{c3::ALS / advanced airway support::resource}}.
+<b>Status epilepticus</b> is defined as a seizure lasting ≥ {{c1::5 minutes::duration}}, or {{c2::two or more seizures without return to baseline between them::qualifier}} — request ALS for {{c3::benzodiazepines::definitive Rx}}.
 
 ## Extra
 

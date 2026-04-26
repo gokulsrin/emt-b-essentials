@@ -6,8 +6,8 @@ tags  = ["emt", "pediatrics", "newborn", "apgar"]
 
 ## Text
 
-The <b>APGAR</b> score is assessed at {{c1::1 minute::timing}} and {{c1::5 minutes::timing}} after birth.
+The <b>APGAR</b> score is assessed at {{c1::1 minute::timing}} and {{c1::5 minutes::timing}} after birth; if the 5-minute score is still low, reassess at {{c1::10 minutes::timing}}.
 
 ## Extra
 
-A persistently low score at 5 minutes warrants a higher level of care. Additional assessments may be done at 10 minutes if the score remains low. Never delay resuscitation to perform the APGAR calculation.
+Never delay resuscitation to perform the APGAR calculation. A persistently low score at 5–10 minutes warrants the highest level of available care.

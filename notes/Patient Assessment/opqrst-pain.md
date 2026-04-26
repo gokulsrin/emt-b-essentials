@@ -8,7 +8,7 @@ tags  = ["emt", "assessment", "history", "opqrst", "pain"]
 
 <b>OPQRST</b> — pain history mnemonic:
 
-<b>O</b> = {{c1::Onset}}, <b>P</b> = {{c1::Provocation / palliation}}, <b>Q</b> = {{c1::Quality}}, <b>R</b> = {{c1::Region / radiation}}, <b>S</b> = {{c1::Severity}}, <b>T</b> = {{c1::Time / duration}}.
+<b>O</b> = {{c1::Onset}}, <b>P</b> = {{c1::Provocation / Palliation}}, <b>Q</b> = {{c1::Quality}}, <b>R</b> = {{c1::Region / Radiation}}, <b>S</b> = {{c1::Severity}}, <b>T</b> = {{c1::Time / duration}}.
 
 ## Extra
 

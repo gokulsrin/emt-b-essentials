@@ -6,8 +6,8 @@ tags  = ["emt", "geriatric", "elderly", "trauma"]
 
 ## Text
 
-An elderly patient on <b>anticoagulants</b> (warfarin, apixaban, rivaroxaban) who sustains a <u>ground-level fall</u> must be {{c1::transported::disposition}} even for a minor head impact, due to risk of {{c2::intracranial hemorrhage::complication}}.
+An elderly patient on <b>anticoagulants</b> who sustains a <u>ground-level fall</u> with any head impact must be {{c1::transported::disposition}} due to risk of {{c2::intracranial hemorrhage::complication}}.
 
 ## Extra
 
-"GLF" (ground-level fall) is a deceptively dangerous chief complaint in this population. Intracranial hemorrhage from a trivial mechanism is the single biggest preventable miss in geriatric EMS. Always ask about anticoagulant use and transport with a low threshold.
+Common anticoagulants in this population: warfarin, apixaban, rivaroxaban. Intracranial hemorrhage from trivial mechanism is the most dangerous miss in geriatric EMS — always ask about anticoagulant use.

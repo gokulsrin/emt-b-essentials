@@ -12,4 +12,4 @@ Below the larynx, air passes through the {{c1::trachea::structure}}, which split
 
 ## Extra
 
-The right mainstem bronchus is wider and more vertical, which is why aspirated foreign bodies and a misplaced ET tube preferentially enter the right side. Always confirm ET tube placement bilaterally after intubation.
+Because the right mainstem bronchus is wider and more vertical, aspirated foreign bodies and misplaced ET tubes preferentially enter the right side. Confirm ET tube placement bilaterally after intubation.

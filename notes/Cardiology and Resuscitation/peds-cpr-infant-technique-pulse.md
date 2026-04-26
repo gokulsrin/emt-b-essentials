@@ -7,7 +7,7 @@ tags  = ["emt", "cardiology", "cpr", "infant"]
 ## Text
 
 <b>Infant CPR</b> compression technique: {{c1::two fingers::single rescuer}} or {{c1::two-thumb encircling hands::two rescuers}}.<br>
-<b>Infant</b> pulse check site: {{c2::brachial::artery}} artery.
+<b>Infant</b> pulse check site: {{c2::brachial artery::site}}.
 
 ## Extra
 

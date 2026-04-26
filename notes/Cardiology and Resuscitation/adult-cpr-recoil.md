@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha"]
 
 ## Text
 
-Between each adult <b>CPR</b> compression, allow {{c1::full chest recoil::what must occur}}.
+Between each adult <b>CPR</b> compression, allow {{c1::full chest recoil::recoil requirement}}; do not lean on the chest.
 
 ## Extra
 

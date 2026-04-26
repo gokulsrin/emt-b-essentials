@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "toxicology", "poisoning"]
 
 ## Text
 
-<b>Injection poisoning</b> (drugs, envenomations): keep the affected limb {{c1::at or below heart level::position}} and immobilize — do NOT apply {{c2::ice, suction, or "cut and suck"::contraindicated interventions}}.
+<b>Injection poisoning / envenomation</b>: immobilize the limb at {{c1::heart level::position}} — do NOT apply {{c2::ice, tourniquet, or suction ("cut and suck")::contraindicated interventions}} as these worsen tissue injury.
 
 ## Extra
 

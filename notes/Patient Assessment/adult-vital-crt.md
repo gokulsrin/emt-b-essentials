@@ -6,7 +6,7 @@ tags  = ["emt", "assessment", "vitals", "adult", "perfusion"]
 
 ## Text
 
-Normal adult <b>capillary refill time</b>: {{c1::< 2 seconds::threshold}}; prolonged CRT suggests {{c2::poor peripheral perfusion::significance}}.
+Normal adult <b>capillary refill time</b>: {{c1::< 2 seconds::threshold}}; <u>prolonged CRT</u> (≥ 2 s) suggests {{c2::poor peripheral perfusion::significance}}.
 
 ## Extra
 

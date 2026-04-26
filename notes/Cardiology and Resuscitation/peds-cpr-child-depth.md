@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "pediatrics"]
 
 ## Text
 
-<b>Child CPR</b> (age 1 year to puberty) compression depth: {{c1::about 2 inches (approximately ⅓ AP chest depth)::depth}}.
+<b>Child CPR</b> (age 1 year to puberty) compression depth: {{c1::about 2 inches::depth}} (approximately ⅓ AP chest diameter).
 
 ## Extra
 

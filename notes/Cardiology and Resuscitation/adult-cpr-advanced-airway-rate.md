@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha", "airway"]
 
 ## Text
 
-With an <b>advanced airway</b> in place during adult CPR: give continuous compressions and ventilate every {{c1::6 seconds (10 breaths/min)::rate}}.
+With an <b>advanced airway</b> in place during adult <b>CPR</b>: give <u>continuous compressions</u> and ventilate every {{c1::6 seconds::interval}} ({{c1::10 breaths/min::rate}}).
 
 ## Extra
 

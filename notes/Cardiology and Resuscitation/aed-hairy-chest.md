@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "aed", "special_cases"]
 
 ## Text
 
-<b>AED</b> — excessive chest hair: {{c1::apply the first set of pads and rip them off to remove hair, then apply a fresh set::action}}.
+<b>AED</b> — <u>excessive chest hair</u>: {{c1::apply the first pad set, rip off to remove hair, then apply a fresh set::action}}.
 
 ## Extra
 

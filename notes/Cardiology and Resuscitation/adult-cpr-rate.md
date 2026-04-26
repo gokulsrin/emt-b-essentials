@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha"]
 
 ## Text
 
-Adult <b>high-quality CPR</b> compression rate: {{c1::100–120::compressions/min}}.
+Adult <b>high-quality CPR</b> compression rate: {{c1::100–120 compressions/min::rate}}.
 
 ## Extra
 

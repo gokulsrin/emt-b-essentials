@@ -6,7 +6,7 @@ tags  = ["emt", "assessment", "loc", "avpu", "shock"]
 
 ## Text
 
-A drop in <b>AVPU</b> from Alert to V/P/U is one of the strongest signs of {{c1::decompensation::clinical significance}}.
+A drop in <b>AVPU</b> from Alert to V/P/U is one of the strongest signs of <u>decompensation</u>: {{c1::the patient is deteriorating::clinical significance}}.
 
 ## Extra
 

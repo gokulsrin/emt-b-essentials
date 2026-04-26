@@ -11,11 +11,11 @@ What are the classic findings of <b>acute decompensated CHF</b> / <b>pulmonary e
 ## Back
 
 <b>Classic findings:</b>
-- Severe SOB, often worse lying flat (<b>orthopnea</b>) or waking at night (PND)
-- <b>Crackles / rales</b> at the lung bases; sometimes <u>"pink frothy sputum"</u>
+- Severe SOB, worse lying flat (<b>orthopnea</b>) or waking at night (PND)
+- <b>Crackles / rales</b> at lung bases; sometimes <u>"pink frothy sputum"</u>
 - <u>JVD</u> (jugular venous distension)
-- Pedal / sacral edema, weight gain over days
-- Often hypertensive, tachycardic, anxious; clammy skin; low SpO₂
+- Pedal / sacral edema, rapid weight gain
+- Hypertensive, tachycardic, anxious; low SpO₂
 
 <b>Field treatment:</b>
 - Sit the patient upright with legs dependent (never lay flat)

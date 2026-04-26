@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "tourniquet"]
 
 ## Text
 
-Tighten a <b>tourniquet</b> until {{c1::bleeding stops}} AND the {{c2::distal pulse disappears::pulse finding}}.
+Tighten a <b>tourniquet</b> until {{c1::bleeding stops}} AND {{c2::distal pulse disappears::pulse finding}}.
 
 ## Extra
 

@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "burns", "rule_of_nines", "pediatric"]
 
 ## Text
 
-In the pediatric <b>Rule of Nines</b>, the head is {{c1::larger (~18%)::size and %}} and each leg is {{c2::smaller (~14%)::size and %}} compared to the adult values.
+In the pediatric <b>Rule of Nines</b>, the head is {{c1::larger (~18%)::size vs adult}} and each leg is {{c2::smaller (~14%)::size vs adult}} compared to adult values.
 
 ## Extra
 

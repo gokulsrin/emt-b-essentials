@@ -6,7 +6,7 @@ tags  = ["emt", "anatomy", "terminology", "prefixes"]
 
 ## Text
 
-<b>Peri-</b> means {{c1::around::meaning}}; <b>inter-</b> means {{c2::between::meaning}}; <b>intra-</b> means {{c3::within::meaning}}.
+<b>Peri-</b> means {{c1::around::meaning}}; <b>inter-</b> means {{c1::between::meaning}}; <b>intra-</b> means {{c1::within::meaning}}.
 
 ## Extra
 

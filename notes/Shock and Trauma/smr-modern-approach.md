@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "spinal", "smr", "c_spine"]
 
 ## Text
 
-Modern <b>SMR</b> sequence: {{c1::manual stabilization → cervical collar → secure to stretcher::steps}}; long backboards are reserved for {{c2::extrication or unstable spines::specific use}}, not routine potential C-spine calls.
+Modern <b>SMR</b> sequence: {{c1::manual stabilization → cervical collar → secure to stretcher::steps}}; long backboards are reserved for {{c2::extrication or unstable spines::specific indication}}, not every potential C-spine call.
 
 ## Extra
 

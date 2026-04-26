@@ -6,7 +6,7 @@ tags  = ["emt", "airway", "adjunct", "npa"]
 
 ## Text
 
-<b>NPA</b> is contraindicated with suspected {{c1::basilar skull fracture::injury type}} or severe {{c1::head or facial trauma}}.
+<b>NPA</b> is contraindicated with suspected {{c1::basilar skull fracture::injury type}} or severe {{c1::head or facial trauma::injury type}}.
 
 ## Extra
 

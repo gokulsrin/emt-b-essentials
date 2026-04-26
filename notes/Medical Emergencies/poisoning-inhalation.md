@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "toxicology", "poisoning"]
 
 ## Text
 
-<b>Inhalation poisoning</b> (gases, smoke, fumes, CO): {{c1::remove the patient from the source first::scene safety action}}, then give high-flow O₂ via NRB {{c2::regardless of pulse oximetry::qualifier}} because CO {{c3::falsely elevates SpO₂::effect on SpO₂}}.
+<b>Inhalation poisoning</b> (gases, smoke, CO): first {{c1::remove the patient from the source::scene safety action}}, then give high-flow O₂ via NRB regardless of pulse oximetry — CO {{c2::falsely elevates SpO₂::effect on SpO₂}} because it binds hemoglobin like oxygen.
 
 ## Extra
 

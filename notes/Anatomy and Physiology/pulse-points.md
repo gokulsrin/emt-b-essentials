@@ -6,14 +6,14 @@ tags  = ["emt", "anatomy", "cardiovascular", "pulse"]
 
 ## Text
 
-<b>Pulse points</b> — artery and palpation site for each:
+<b>Pulse points</b> — palpation site for each artery:
 
-- <b>Carotid</b>: {{c1::carotid artery}}, lateral neck beside trachea — <u>central pulse</u>
-- <b>Femoral</b>: {{c1::femoral artery}}, groin / inguinal crease — <u>central pulse</u>
-- <b>Brachial</b>: {{c1::brachial artery}}, medial upper arm — infant CPR pulse check site
-- <b>Radial</b>: {{c1::radial artery}}, thumb-side of wrist
-- <b>Posterior tibial</b>: {{c1::posterior tibial artery}}, behind medial malleolus
-- <b>Dorsalis pedis</b>: {{c1::dorsalis pedis artery}}, top of foot
+- <b>Carotid</b>: {{c1::lateral neck beside trachea::site}} — <u>central pulse</u>
+- <b>Femoral</b>: {{c1::groin / inguinal crease::site}} — <u>central pulse</u>
+- <b>Brachial</b>: {{c1::medial upper arm::site}} — infant CPR pulse check site
+- <b>Radial</b>: {{c1::thumb-side of wrist::site}}
+- <b>Posterior tibial</b>: {{c1::behind medial malleolus::site}}
+- <b>Dorsalis pedis</b>: {{c1::top of foot::site}}
 
 ## Extra
 

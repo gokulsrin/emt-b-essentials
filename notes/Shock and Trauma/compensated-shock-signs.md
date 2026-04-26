@@ -6,7 +6,7 @@ tags  = ["emt", "shock", "compensation"]
 
 ## Text
 
-Early signs of <b>compensated shock</b> (BP still normal):
+Early signs of <b>compensated shock</b> (<u>BP still normal</u>):
 {{c1::tachycardia}}, {{c1::tachypnea}}, {{c1::anxiety/restlessness}}, {{c1::cool pale clammy skin}}, {{c1::delayed capillary refill (> 2 s)}}, {{c1::narrowing pulse pressure}}.
 
 ## Extra

@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "seizure"]
 
 ## Text
 
-During an active <b>seizure</b>, you should {{c1::never::always/never}} place anything in the patient's mouth — bite blocks and fingers are {{c2::contraindicated::indicated/contraindicated}}.
+During an active <b>seizure</b>, NEVER place anything in the patient's mouth — bite blocks and fingers are both {{c1::contraindicated::indicated/contraindicated}} and risk {{c2::broken teeth, oral injury, or rescuer bite::harms}}.
 
 ## Extra
 

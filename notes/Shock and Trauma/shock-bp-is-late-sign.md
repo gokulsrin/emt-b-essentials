@@ -6,7 +6,7 @@ tags  = ["emt", "shock", "compensation"]
 
 ## Text
 
-In <b>shock</b>, hypotension is a {{c1::late::early or late?}} sign; by the time BP drops, an adult has already lost roughly {{c2::30%::percentage}} of blood volume.
+In <b>shock</b>, hypotension is a {{c1::late::early or late?}} sign; by the time BP drops, an adult has already lost roughly {{c2::30%::% blood volume lost}} of blood volume.
 
 ## Extra
 

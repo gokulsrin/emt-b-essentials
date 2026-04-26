@@ -6,7 +6,7 @@ tags  = ["emt", "pharm", "nitroglycerin", "acs"]
 
 ## Text
 
-<b>Nitroglycerin</b> (patient's own prescription) is indicated for: {{c1::ischemic chest pain (suspected ACS)::indication 1}} and {{c1::acute pulmonary edema (CHF)::indication 2}} per protocol.
+<b>Nitroglycerin</b> (patient's own prescription) is indicated for: {{c1::ischemic chest pain (suspected ACS)}} and {{c1::acute pulmonary edema (CHF)}} per protocol.
 
 ## Extra
 

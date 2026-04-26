@@ -6,7 +6,7 @@ tags  = ["emt", "pharm", "naloxone", "narcan", "opioid"]
 
 ## Text
 
-<b>Naloxone</b> half-life ({{c1::30–90 min::duration}}) is <u>shorter than most opioids</u> → patient can {{c1::re-narcotize::risk}} after initial response; always transport even if they refuse.
+<b>Naloxone</b> half-life ({{c1::30–90 min::duration}}) is <u>shorter than most opioids</u> → patient can {{c2::re-narcotize::risk}} after initial response; always transport even if they refuse.
 
 ## Extra
 

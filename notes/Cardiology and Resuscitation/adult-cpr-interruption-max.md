@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha"]
 
 ## Text
 
-Adult <b>CPR</b> maximum interruption duration for pulse check or rhythm analysis: {{c1::10 seconds::time limit}}.
+Adult <b>CPR</b>: maximum interruption duration for any pulse check or rhythm analysis is {{c1::10 seconds::time limit}}.
 
 ## Extra
 

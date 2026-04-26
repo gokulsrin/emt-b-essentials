@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "chest", "flail_chest"]
 
 ## Text
 
-<b>Flail chest</b>: {{c1::two or more adjacent ribs::segment definition}}, each fractured in {{c2::two or more places::number of fractures}}, creating a mechanically detached segment.
+<b>Flail chest</b>: {{c1::≥2 adjacent ribs::segment definition}}, each fractured in {{c2::≥2 places::fracture count}}, creating a mechanically detached segment.
 
 ## Extra
 

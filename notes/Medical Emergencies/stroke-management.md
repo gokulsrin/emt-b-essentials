@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "stroke", "transport"]
 
 ## Text
 
-Field management of suspected <b>acute stroke</b>: perform Cincinnati screen, document <b>last known well</b> time, position head {{c1::slightly elevated (~30°)::degrees}} unless hypotensive, maintain SpO₂ {{c2::≥ 94%::target}}, and transport rapidly to the nearest {{c3::designated stroke center::destination}}.
+Field management of suspected <b>acute stroke</b>: perform Cincinnati screen, document <b>last known well</b> time, position head {{c1::slightly elevated (~30°)::position}}, maintain SpO₂ {{c2::≥ 94%::target}}, and transport rapidly to the nearest {{c3::designated stroke center::destination}} — do NOT give aspirin (may be hemorrhagic).
 
 ## Extra
 

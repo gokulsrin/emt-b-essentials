@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "pediatrics", "infant"]
 
 ## Text
 
-<b>CPR</b> compression rate for all pediatric ages (infant through adolescent): {{c1::100–120::compressions/min}}.
+<b>CPR</b> compression rate for all pediatric ages (infant through adolescent): {{c1::100–120 compressions/min::rate}}.
 
 ## Extra
 

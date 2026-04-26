@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "aed", "special_cases", "pacemaker"]
 
 ## Text
 
-<b>AED</b> — implanted pacemaker or ICD (palpable lump under skin): place AED pad at least {{c1::1 inch (2.5 cm)::distance}} away from the device.
+<b>AED</b> — implanted <b>pacemaker</b> or <b>ICD</b>: place pad at least {{c1::1 inch (2.5 cm)::distance}} away from the device.
 
 ## Extra
 

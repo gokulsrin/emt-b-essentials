@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "lifting", "moving"]
 
 ## Text
 
-An <b>emergent move</b> is used when {{c1::the scene is immediately unsafe (fire, water, hostile environment) or the patient must be moved to provide care (e.g., CPR on a soft surface)::indication}}.
+An <b>emergent move</b> is used when {{c1::the scene is immediately life-threatening (fire, structural collapse, violence) or life-saving care cannot be given in place::indication}}.
 
 ## Extra
 

@@ -6,8 +6,7 @@ tags  = ["emt", "operations", "communication", "radio_report"]
 
 ## Text
 
-<b>EMS radio report</b> to receiving hospital — 10-step structure (named protocol):
-{{c1::unit identifier and ETA}}, {{c1::patient age and sex}}, {{c1::chief complaint}}, {{c1::history of present illness / mechanism}}, {{c1::pertinent PMH, allergies, medications}}, {{c1::current vital signs}}, {{c1::pertinent assessment findings}}, {{c1::treatments given and patient response}}, {{c1::ETA (re-stated)}}, {{c1::questions / orders requested}}.
+<b>EMS radio report</b> to receiving hospital — named elements (all required): {{c1::unit ID and ETA}}, {{c1::patient age and sex}}, {{c1::chief complaint}}, {{c1::history / mechanism}}, {{c1::PMH, allergies, medications}}, {{c1::current vital signs}}, {{c1::pertinent findings}}, {{c1::treatments given and response}}, {{c1::ETA (restated)}}, {{c1::questions or orders requested}}.
 
 ## Extra
 

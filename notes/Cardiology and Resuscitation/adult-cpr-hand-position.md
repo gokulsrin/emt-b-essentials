@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha"]
 
 ## Text
 
-Adult <b>CPR</b> hand position: {{c1::lower half of the sternum, between the nipples::location}}.
+Adult <b>CPR</b> hand position: {{c1::lower half of the sternum::location}}, between the nipples.
 
 ## Extra
 

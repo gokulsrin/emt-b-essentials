@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "adult", "aha"]
 
 ## Text
 
-Adult <b>high-quality CPR</b> compression depth: at least {{c1::2 inches (5 cm)::minimum}}, no more than {{c2::2.4 inches (6 cm)::maximum}}.
+Adult <b>high-quality CPR</b> compression depth: at least {{c1::2 inches (5 cm)::minimum depth}}, no more than {{c2::2.4 inches (6 cm)::maximum depth}}.
 
 ## Extra
 

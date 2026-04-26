@@ -6,8 +6,7 @@ tags  = ["emt", "operations", "triage", "start", "mci"]
 
 ## Text
 
-In <b>START</b> triage, if a patient is not breathing: reposition the airway once.
-Still not breathing → tag {{c1::Black::color}}. Now breathing → tag {{c2::Red::color}}.
+In <b>START</b> triage, apneic patient: reposition airway once — still apneic → tag {{c1::Black::color}}; breathing resumes → tag {{c2::Red::color}}.
 
 ## Extra
 

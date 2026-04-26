@@ -8,7 +8,7 @@ tags  = ["emt", "assessment", "scene_size_up"]
 
 <b>Scene size-up</b> — 6 steps performed before patient contact:
 
-{{c1::BSI / standard precautions}}, {{c1::scene safety}}, {{c1::MOI / NOI}}, {{c1::number of patients}}, {{c1::additional resources}}, {{c1::C-spine stabilization decision}}.
+{{c1::BSI / standard precautions}}, {{c1::scene safety}}, {{c1::MOI / NOI}}, {{c1::number of patients}}, {{c1::additional resources}}, {{c1::spinal stabilization decision}}.
 
 ## Extra
 

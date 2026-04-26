@@ -6,8 +6,8 @@ tags  = ["emt", "assessment", "vitals", "adult"]
 
 ## Text
 
-Normal adult resting <b>respiratory rate</b>: {{c1::12–20::breaths/min}}.
+Normal adult resting <b>respiratory rate</b>: {{c1::12–20::breaths/min}}; <u>bradypnea</u> < 12, <u>tachypnea</u> > 20.
 
 ## Extra
 
-< 12 = bradypnea; > 20 = tachypnea. Rate alone is insufficient — also assess depth and effort. A slow, shallow rate may indicate narcotic overdose or head injury.
+Rate alone is insufficient — also assess depth and effort. A slow, shallow rate may indicate narcotic overdose or head injury.

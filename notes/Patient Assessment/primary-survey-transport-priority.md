@@ -6,7 +6,7 @@ tags  = ["emt", "assessment", "primary_survey", "transport"]
 
 ## Text
 
-At the end of the <b>primary assessment</b>, form a general impression and make a <b>transport priority</b> decision: {{c1::load & go::high priority}} vs. {{c2::stay & play::low priority}}.
+At the end of the <b>primary assessment</b>, make a <b>transport priority</b> decision: life-threat found → {{c1::load & go::priority term}}; stable, no life threat → {{c2::stay & play::priority term}}.
 
 ## Extra
 

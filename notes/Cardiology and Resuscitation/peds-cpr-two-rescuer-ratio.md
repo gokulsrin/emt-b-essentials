@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "cpr", "pediatrics", "infant"]
 
 ## Text
 
-<b>Two-rescuer CPR</b> compression-to-ventilation ratio for children and infants: {{c1::15:2::ratio}}.
+<b>Two-rescuer CPR</b> compression-to-ventilation ratio for <u>children and infants</u>: {{c1::15:2::ratio}} (vs. 30:2 for adult two-rescuer).
 
 ## Extra
 

@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "tourniquet"]
 
 ## Text
 
-After applying a <b>tourniquet</b>, mark the {{c1::time of application::what to mark}} clearly on the tourniquet and on the patient (e.g., "TK 1432").
+After applying a <b>tourniquet</b>, mark the {{c1::time of application::what to mark}} clearly on the tourniquet <u>and</u> on the patient (e.g., "TK 1432").
 
 ## Extra
 

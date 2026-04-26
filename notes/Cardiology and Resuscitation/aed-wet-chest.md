@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "aed", "special_cases"]
 
 ## Text
 
-<b>AED</b> — wet chest: {{c1::quickly dry the chest::action}} before applying pads.
+<b>AED</b> — <u>wet chest</u>: {{c1::quickly dry the chest::action}} before applying pads; also move patient out of standing water.
 
 ## Extra
 

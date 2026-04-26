@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "triage", "start", "mci"]
 
 ## Text
 
-In <b>START</b> triage, respirations > {{c1::30/min::rate}} → tag <b>Red</b> (immediate).
+In <b>START</b> triage, respirations > {{c1::30/min::breaths/min}} → tag <b>Red</b>; ≤ 30/min → proceed to Perfusion assessment.
 
 ## Extra
 

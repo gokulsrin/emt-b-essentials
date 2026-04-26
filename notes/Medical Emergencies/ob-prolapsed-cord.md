@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "ob", "pregnancy"]
 
 ## Text
 
-For a <b>prolapsed cord</b>: position mother in {{c1::knee-chest or Trendelenburg::position}}, insert two gloved fingers into the vagina to {{c2::lift the presenting part off the cord::action}}, keep cord moist with {{c3::sterile saline gauze::material}}, and do NOT push the cord back in.
+For a <b>prolapsed cord</b>: position mother in {{c1::knee-chest or Trendelenburg::position}}, insert gloved fingers to {{c2::manually elevate the presenting part off the cord::action}}, keep cord moist with sterile saline gauze, and do NOT push the cord back in.
 
 ## Extra
 

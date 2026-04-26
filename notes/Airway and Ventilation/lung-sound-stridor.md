@@ -6,7 +6,7 @@ tags  = ["emt", "airway", "respiratory", "lung_sounds"]
 
 ## Text
 
-<u>Stridor</u> — high-pitched {{c1::inspiratory::phase}} whistle indicating {{c2::upper airway obstruction::location and type}} (epiglottitis, croup, anaphylaxis, foreign body, burn).
+<u>Stridor</u> — high-pitched {{c1::inspiratory::phase}} whistle indicating {{c2::upper airway obstruction::location and type}} (<b>epiglottitis</b>, croup, anaphylaxis, foreign body, burn).
 
 ## Extra
 

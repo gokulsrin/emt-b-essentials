@@ -11,8 +11,4 @@ The four broad categories of <b>shock</b>:
 
 ## Extra
 
-Hypovolemic = not enough volume (hemorrhage, dehydration, burns).
-Distributive = vessels lose tone or leak (septic, anaphylactic, neurogenic, psychogenic).
-Cardiogenic = pump failure (massive MI, severe arrhythmia, end-stage CHF).
-Obstructive = flow physically blocked (tension pneumothorax, cardiac tamponade, massive PE).
-All four produce inadequate tissue perfusion → anaerobic metabolism → lactate → metabolic acidosis.
+Hypovolemic = not enough volume (hemorrhage, dehydration, burns). Distributive = vessels lose tone or leak (septic, anaphylactic, neurogenic, psychogenic). Cardiogenic = pump failure (MI, arrhythmia, CHF). Obstructive = flow physically blocked (tension PTX, tamponade, massive PE). All four produce inadequate tissue perfusion → anaerobic metabolism → lactate → acidosis.

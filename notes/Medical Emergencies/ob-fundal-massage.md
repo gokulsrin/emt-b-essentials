@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "ob", "pregnancy"]
 
 ## Text
 
-After delivery, if the mother has heavy postpartum bleeding, perform {{c1::fundal massage::intervention}} to encourage {{c2::uterine contraction::mechanism}} and treat for shock.
+After delivery, heavy postpartum bleeding is treated with {{c1::fundal massage::intervention}} to stimulate {{c2::uterine contraction::mechanism}}; simultaneously treat for shock and transport.
 
 ## Extra
 

@@ -8,7 +8,7 @@ tags  = ["emt", "assessment", "primary_survey", "xabcde"]
 
 <b>Primary assessment</b> — find and treat life threats in order (<b>XABCDE</b>):
 
-{{c1::X — eXsanguinating hemorrhage}}, {{c1::A — Airway}}, {{c1::B — Breathing}}, {{c1::C — Circulation}}, {{c1::D — Disability}}, {{c1::E — Exposure}}.
+{{c1::X — eXsanguinating hemorrhage control}}, {{c1::A — Airway}}, {{c1::B — Breathing}}, {{c1::C — Circulation}}, {{c1::D — Disability}}, {{c1::E — Exposure / Environment}}.
 
 ## Extra
 

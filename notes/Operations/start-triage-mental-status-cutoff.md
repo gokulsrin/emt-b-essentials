@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "triage", "start", "mci"]
 
 ## Text
 
-In <b>START</b> triage, cannot follow simple commands → tag {{c1::Red::color}}; can follow simple commands → tag {{c2::Yellow::color}}.
+In <b>START</b> triage (Mental Status step): cannot follow simple commands → tag {{c1::Red::color}}; can follow simple commands → tag {{c2::Yellow::color}}.
 
 ## Extra
 

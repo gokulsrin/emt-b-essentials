@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "lifting", "moving", "ergonomics"]
 
 ## Text
 
-The <b>power grip</b>: palms {{c1::up::orientation}}, fingers and thumb in {{c1::the same direction}}, hands at least {{c1::10 inches apart::spacing}}.
+The <b>power grip</b>: palms {{c1::up::orientation}}, all fingers and thumb wrapped in {{c1::the same direction::alignment}}, hands at least {{c1::10 inches apart::spacing}}.
 
 ## Extra
 

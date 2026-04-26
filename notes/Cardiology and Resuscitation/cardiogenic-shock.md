@@ -13,11 +13,11 @@ What is <b>cardiogenic shock</b> and how do you recognize and treat it in the fi
 <b>Definition:</b> the heart fails as a pump — usually after a large MI — so it cannot generate adequate cardiac output despite normal volume.
 
 <b>Recognition:</b>
-- Hypotension (SBP < 90)
-- Cool, clammy, pale skin (compensatory vasoconstriction)
-- Tachycardia (sometimes bradycardia if AV block)
-- Pulmonary edema findings: crackles, dyspnea, <u>JVD</u>, low SpO₂
-- AMS, weak/thready peripheral pulses
+- <u>Hypotension</u> (SBP < 90)
+- Cool, clammy, pale skin
+- Tachycardia (bradycardia if AV block)
+- <b>Pulmonary edema</b>: crackles, dyspnea, <u>JVD</u>, low SpO₂
+- AMS, weak/thready pulses
 
 <b>Treatment:</b>
 - High-flow O₂ titrated to SpO₂ ≥ 94%; assist ventilations if inadequate

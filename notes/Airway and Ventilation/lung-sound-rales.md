@@ -6,7 +6,7 @@ tags  = ["emt", "airway", "respiratory", "lung_sounds"]
 
 ## Text
 
-<u>Rales / crackles</u> — fine <u>"Velcro"</u> popping heard at {{c1::end inspiration::timing}}; caused by {{c2::fluid in the alveoli::cause}} (CHF, pneumonia).
+<u>Rales / crackles</u> — fine <u>"Velcro"</u> popping heard at {{c1::end inspiration::timing}}; caused by {{c2::fluid in the alveoli::cause}} (<b>CHF</b>, pneumonia).
 
 ## Extra
 

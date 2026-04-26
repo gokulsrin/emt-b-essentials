@@ -13,7 +13,7 @@ Which patients are most likely to present with <b>atypical MI</b> symptoms — a
 <b>Highest risk for atypical presentations:</b>
 - <b>Women</b>
 - <b>Elderly</b>
-- <b>Diabetics</b> (impaired visceral pain perception from neuropathy)
+- <b>Diabetics</b> (neuropathy blunts visceral pain)
 
 <b>Atypical presentations to recognize:</b>
 - Sudden weakness, fatigue, or malaise — <u>"I just feel awful"</u>

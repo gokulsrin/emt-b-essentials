@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "ob", "pregnancy"]
 
 ## Text
 
-<b>Imminent delivery</b> signs: {{c1::crowning}}, urge to push, contractions {{c2::&lt; 2 minutes apart::interval}}, or sensation that the baby is coming — if crowning is present, {{c3::prepare to deliver on scene::action}}.
+<b>Imminent delivery</b> signs: {{c1::crowning}}, {{c1::urge to push}}, {{c1::contractions &lt; 2 min apart}}, or sensation the baby is coming — if crowning is present, {{c2::deliver on scene::action}}; do not transport.
 
 ## Extra
 

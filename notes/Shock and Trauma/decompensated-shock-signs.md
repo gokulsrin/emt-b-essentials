@@ -6,7 +6,7 @@ tags  = ["emt", "shock", "compensation"]
 
 ## Text
 
-Late signs of <b>decompensated shock</b> (compensation has failed):
+Late signs of <b>decompensated shock</b> (<u>compensation has failed</u>):
 {{c1::hypotension (SBP < 90)}}, {{c1::altered mental status / decreased LOC}}, {{c1::weak or absent peripheral pulses}}, {{c1::cyanosis}}, {{c1::bradycardia and bradypnea}}.
 
 ## Extra

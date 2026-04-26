@@ -6,7 +6,7 @@ tags  = ["emt", "assessment", "loc", "gcs", "head_injury"]
 
 ## Text
 
-<b>GCS</b> severity buckets: {{c1::13–15::score}} = <b>mild</b> head injury; {{c2::9–12::score}} = <b>moderate</b>; {{c3::≤ 8::score}} = <b>severe</b>.
+<b>GCS</b> severity buckets: {{c1::13–15::score}} = <b>mild</b> head injury; {{c1::9–12::score}} = <b>moderate</b>; {{c1::≤ 8::score}} = <b>severe</b>.
 
 ## Extra
 

@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "aed", "special_cases", "pregnancy"]
 
 ## Text
 
-<b>AED</b> — pregnancy: use the AED with {{c1::standard pad placement, no modification::modification needed}}.
+<b>AED</b> — pregnancy: use {{c1::standard pad placement::modification needed}}; additionally perform {{c2::manual left uterine displacement::additional maneuver}} to relieve aortocaval compression.
 
 ## Extra
 

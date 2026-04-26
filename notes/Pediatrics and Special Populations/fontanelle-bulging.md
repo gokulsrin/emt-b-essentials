@@ -6,8 +6,8 @@ tags  = ["emt", "pediatrics", "fontanelle", "infant"]
 
 ## Text
 
-A <u>bulging / tense</u> anterior fontanelle in an infant suggests {{c1::increased intracranial pressure (ICP)::clinical concern}}.
+A <u>bulging / tense</u> anterior fontanelle in an infant suggests {{c1::increased intracranial pressure::clinical concern}}; causes include {{c2::head trauma, meningitis, or hydrocephalus::causes}}.
 
 ## Extra
 
-Causes include head trauma, hydrocephalus, and meningitis. Always assess with the infant calm and upright — crying or straining transiently elevates ICP and can mimic a bulging fontanelle.
+Always assess the fontanelle with the infant calm and upright — crying or straining transiently raises ICP and can mimic a pathological bulge.

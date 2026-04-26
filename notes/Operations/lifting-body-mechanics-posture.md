@@ -6,8 +6,7 @@ tags  = ["emt", "operations", "lifting", "moving", "ergonomics"]
 
 ## Text
 
-Core <b>body mechanics</b> rules when lifting a patient (3-rule set):
-{{c1::keep the load close to your body}}, {{c1::lift with your legs not your back}}, {{c1::never twist while lifting — pivot with your feet}}.
+<b>Body mechanics</b> lifting rules (3-rule set): {{c1::keep the load close to your body}}, {{c1::lift with legs not back}}, {{c1::never twist while lifting — pivot your feet}}.
 
 ## Extra
 

@@ -6,8 +6,8 @@ tags  = ["emt", "operations", "triage", "start", "mci"]
 
 ## Text
 
-<b>START</b> triage color meanings:<br>
-<b>Red</b> = {{c1::immediate::priority}}; <b>Yellow</b> = {{c1::delayed::priority}}; <b>Green</b> = {{c1::minor / walking wounded::priority}}; <b>Black</b> = {{c1::deceased / expectant::priority}}.
+<b>START</b> triage color priorities (named list):<br>
+<b>Red</b> = {{c1::immediate}}; <b>Yellow</b> = {{c1::delayed}}; <b>Green</b> = {{c1::minor / walking wounded}}; <b>Black</b> = {{c1::deceased / expectant}}.
 
 ## Extra
 

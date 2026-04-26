@@ -2,7 +2,7 @@
 title       = "EMT-B Essentials"
 summary     = "High-yield, NREMT-aligned EMT-Basic deck — assessment, airway, cardiology, trauma, medical, pharm, peds, operations."
 description = """
-231-card atomic EMT-Basic deck built for the National Registry (NREMT)
+433-card atomic EMT-Basic deck built for the National Registry (NREMT)
 cognitive exam content outline: Scene Size-Up & Safety, Primary Assessment,
 Secondary Assessment, Patient Treatment & Transport, and Operations.
 
@@ -12,6 +12,18 @@ for triads/criteria/protocols), `<b>` for key clinical terms, `<u>` for
 buzzwords/pathognomonic findings, hint syntax for ambiguous answer types,
 no parenthetical giveaways, and Extra fields reserved for plain supporting
 context.
+
+Coverage spans the full NREMT blueprint — anatomy & physiology, patient
+assessment (general impression, PAT, MOI), airway/ventilation (CPAP,
+capnography, FBAO), cardiology & resuscitation (CPR, AED, choking, post-ROSC),
+shock & trauma (Beck's/Cushing's triads, pelvic binder, head trauma types,
+SCI patterns, eye/dental/burns), medical emergencies (AAA, GI bleed, sepsis,
+behavioral, environmental, OB, sickle cell, dialysis), pharmacology (5 rights,
+routes of administration, oxygen-as-drug, MDI/auto-injector technique),
+pediatrics & special populations (PAT, croup vs epiglottitis, newborn
+resuscitation, child/elder abuse, special-needs devices), and operations
+(ICS/NIMS, JumpSTART, refusal/consent/HIPAA, PCR/SOAP/CHART, EVOC, hazmat,
+PPE).
 
 Designed as a cleaner alternative to community EMT-B decks: no typos, no
 giant list-dump cards, no sequential c1/c2/c3 numbering on same-level items,

@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "chest", "pneumothorax"]
 
 ## Text
 
-Late field findings of <b>tension pneumothorax</b>: <u>JVD</u> and <u>tracheal deviation</u> {{c1::away from::direction}} the affected side.
+Late field findings of <b>tension pneumothorax</b>: <u>JVD</u> and <u>tracheal deviation</u> {{c1::away from::direction relative to affected side}} the affected side.
 
 ## Extra
 

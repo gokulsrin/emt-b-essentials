@@ -6,7 +6,7 @@ tags  = ["emt", "cardiology", "aed", "special_cases", "medication"]
 
 ## Text
 
-<b>AED</b> — transdermal medication patch (e.g., nitroglycerin, fentanyl): {{c1::remove the patch and wipe the skin::action}} before applying AED pads.
+<b>AED</b> — <u>transdermal medication patch</u>: {{c1::remove the patch and wipe the skin dry::action}} before applying pads.
 
 ## Extra
 

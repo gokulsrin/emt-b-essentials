@@ -6,7 +6,7 @@ tags  = ["emt", "operations", "hazmat", "scene_safety"]
 
 ## Text
 
-<b>Hazmat hot zone</b> (exclusion zone): highest contamination area — only {{c1::specially trained hazmat personnel with appropriate PPE::who works here}} enter. <b>EMS does not</b> provide patient care here.
+<b>Hazmat hot zone</b> (exclusion zone): the highest contamination area — only {{c1::specially trained hazmat personnel in appropriate PPE::who}} enter; <b>EMS does not</b> provide patient care here.
 
 ## Extra
 

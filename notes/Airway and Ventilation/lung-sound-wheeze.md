@@ -6,7 +6,7 @@ tags  = ["emt", "airway", "respiratory", "lung_sounds"]
 
 ## Text
 
-<u>Wheezing</u> — musical, usually {{c1::expiratory::phase}} sound from {{c2::constricted lower airways::cause}}; classic in asthma, COPD, and anaphylaxis.
+<u>Wheezing</u> — musical, usually {{c1::expiratory::phase}} sound from {{c2::constricted lower airways::cause}}; classic in <b>asthma</b>, <b>COPD</b>, and anaphylaxis.
 
 ## Extra
 

@@ -6,8 +6,8 @@ tags  = ["emt", "medical", "anaphylaxis", "allergy"]
 
 ## Text
 
-<b>Anaphylaxis</b> treatment sequence (named protocol — cloze all steps):
-{{c1::epinephrine 0.3 mg IM (adult) / 0.15 mg IM (peds) into the lateral thigh}}, {{c1::high-flow O₂ via NRB (BVM if airway failing)}}, {{c1::position supine/legs elevated if hypotensive; upright if respiratory distress dominates}}, then {{c1::albuterol for residual wheezing}}.
+<b>Anaphylaxis</b> treatment — cloze all steps:
+{{c1::epinephrine 0.3 mg IM adult / 0.15 mg IM peds into the lateral thigh}}, {{c1::high-flow O₂ via NRB (BVM if airway failing)}}, {{c1::supine with legs elevated if hypotensive; upright if respiratory distress dominates}}, {{c1::albuterol for residual wheezing}}.
 
 ## Extra
 

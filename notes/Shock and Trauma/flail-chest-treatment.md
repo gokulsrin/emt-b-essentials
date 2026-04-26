@@ -6,7 +6,7 @@ tags  = ["emt", "trauma", "chest", "flail_chest"]
 
 ## Text
 
-EMT treatment of <b>flail chest</b> with inadequate breathing: assist ventilations with {{c1::BVM::device}}, which splints the segment internally via positive pressure.
+EMT treatment of <b>flail chest</b> with inadequate breathing: assist ventilations with {{c1::BVM::device}}, which <u>internally splints</u> the segment via positive pressure.
 
 ## Extra
 

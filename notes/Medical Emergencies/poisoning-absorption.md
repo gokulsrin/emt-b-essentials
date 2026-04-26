@@ -6,7 +6,7 @@ tags  = ["emt", "medical", "toxicology", "poisoning"]
 
 ## Text
 
-<b>Absorption poisoning</b> (organophosphates, skin/mucosa contact): decon by {{c1::brushing off dry powder first, then flushing with copious water for 15–20 minutes::decon steps}} and removing contaminated clothing.
+<b>Absorption poisoning</b> (organophosphates, skin/mucosa contact): decon by {{c1::brushing off dry powder first::first step}}, then {{c2::flush with copious water 15–20 min::second step}} and remove contaminated clothing; wear PPE to prevent secondary contamination.
 
 ## Extra
 

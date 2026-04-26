@@ -3,7 +3,7 @@
 A focused EMT-Basic deck for the [NREMT cognitive exam](https://www.nremt.org/Handbooks/EMT/Cognitive-Exam),
 authored for use with [Complement](https://complementai.app).
 
-**231 atomic cards** following the AnKing-style standards in
+**433 atomic cards** following the AnKing-style standards in
 [`decks/CARD_STANDARDS.md`](../CARD_STANDARDS.md). See
 [`decks/DECK_AUTHORING_LEARNINGS.md`](../DECK_AUTHORING_LEARNINGS.md) for
 process notes and common pitfalls.
@@ -16,18 +16,18 @@ Patient Treatment & Transport 20–24%, Operations 10–14%).
 
 | Subdeck | Cards | Coverage |
 |---------|-------|----------|
-| **Anatomy & Physiology** | 30 | directional terms, prefixes/suffixes, blood & air pathways, cardiac conduction, ANS, pulse points, skin layers, epi receptors |
-| **Patient Assessment** | 21 | scene size-up, AVPU, XABCDE primary survey, SAMPLE, OPQRST, DCAP-BTLS, vital sign normals (adult/peds), GCS, reassessment intervals |
-| **Airway & Ventilation** | 26 | OPA/NPA (indications/contraindications/sizing/insertion), suction rules, oxygen devices, BVM rates, distress vs failure vs arrest, lung-sound buzzwords, SpO₂ thresholds |
-| **Cardiology & Resuscitation** | 24 | adult/peds CPR (rate, depth, ratio, hand position, recoil), AED priority + special cases, ACS sequence, atypical MI, CHF, cardiogenic shock |
-| **Shock & Trauma** | 30 | four shock types, compensated vs decompensated, hemorrhage control, tourniquet rules, tension pneumothorax, flail chest, sucking chest wound, burns, spinal precautions |
-| **Medical Emergencies** | 29 | Cincinnati stroke triad, seizure management, hypo vs hyperglycemia, anaphylaxis (definition/treatment/repeat-epi), opioid overdose triad + naloxone, OB (left tilt/crowning/prolapsed cord), poisoning routes |
-| **Pharmacology** | 26 | EMT formulary; per-drug atomic cards for indication, dose, mechanism, contraindications across aspirin, nitro, epi, albuterol, oral glucose, activated charcoal, naloxone |
-| **Pediatrics & Special Populations** | 25 | fontanelle clues (sunken/bulging/closure), peds airway differences, APGAR (acronym + per-component rubrics + buckets), infant pulse, geriatric atypical presentations |
-| **Operations** | 20 | START triage colors + flow (RPM, cutoffs), hazmat zones (hot/warm/cold + staging), lifting body mechanics + move types, radio report structure |
+| **Anatomy & Physiology** | 52 | directional terms, prefixes/suffixes, blood & air pathways, cardiac conduction, ANS, pulse points, skin layers, epi receptors, body cavities/planes/quadrants, spine/long-bone/joint anatomy, GI/GU/endocrine systems, brain regions, coronary arteries, pleura/peritoneum, accessory muscles |
+| **Patient Assessment** | 33 | scene size-up, general impression, trauma vs medical branching, AVPU, XABCDE primary survey, SAMPLE, OPQRST, DCAP-BTLS, rapid trauma assessment, focused exam, vital sign normals (adult/peds), GCS, pulse/respiratory/skin/pupil quality, BP cuff sizing, significant-MOI thresholds |
+| **Airway & Ventilation** | 41 | OPA/NPA, suction rules, oxygen devices, BVM rates, distress vs failure vs arrest, lung-sound buzzwords, SpO₂ thresholds, CPAP indications/contraindications, capnography (EtCO₂), agonal breathing, recovery position, head-tilt vs jaw-thrust, tripod positioning, cyanosis (central vs peripheral), pulse-ox limitations, FBAO recognition |
+| **Cardiology & Resuscitation** | 36 | adult/peds CPR (rate, depth, ratio, hand position, recoil), AED priority + special cases, ACS sequence, atypical MI, CHF, cardiogenic shock, choking (adult/child/infant/unresponsive), post-ROSC priorities, irreversible signs of death, DNR field rules, shockable vs non-shockable rhythms, chain of survival, drowning resus |
+| **Shock & Trauma** | 68 | four shock types + subtypes, compensated vs decompensated, Beck's triad, Cushing's triad, hemorrhage classes I–IV, hemorrhage control, tourniquet rules, tension pneumothorax, flail chest, sucking chest wound, burns (rule-of-9s, electrical/chemical/inhalation, Parkland), pelvic binder, femur traction splint, fracture/dislocation/sprain, crush syndrome, compartment syndrome 6 P's, amputation handling, impaled object, eye injuries (globe/chemical/foreign body), dental avulsion, head trauma (epidural/subdural/concussion), SCI patterns (central/anterior/Brown-Séquard), neurogenic vs spinal shock, abdominal signs (Cullen's/Grey-Turner/Kehr's) |
+| **Medical Emergencies** | 60 | Cincinnati stroke triad, seizure management, hypo vs hyperglycemia, anaphylaxis, opioid overdose, OB (delivery, prolapsed cord, fundal massage), poisoning routes, AAA, GI bleed (upper/lower), sepsis red flags, behavioral assessment + restraints, excited delirium, environmental (heat exhaustion vs stroke, hypothermia stages, frostbite, drowning, lightning, dive emergencies, snake/bee), pulmonary embolism, COPD exacerbation, DKA + Kussmaul, HHS, preeclampsia/eclampsia, ectopic, abortion, placenta previa vs abruption, postpartum hemorrhage, sickle cell crisis, dialysis missed, AEIOU-TIPS, TIA, ischemic vs hemorrhagic stroke, thrombolytic window |
+| **Pharmacology** | 39 | EMT formulary; per-drug atomic cards for indication/dose/mechanism/contraindications (aspirin, nitro, epi, albuterol, oral glucose, activated charcoal, naloxone); 5 rights, 10 routes of administration, oxygen-as-drug, MDI technique, epi auto-injector technique, glucose tube safety, ALS-only formulary recognition, generic vs trade names, standing vs online medical control |
+| **Pediatrics & Special Populations** | 52 | fontanelle clues, peds airway differences, APGAR (acronym + per-component + buckets + timing), infant pulse, geriatric atypical presentations, Pediatric Assessment Triangle (PAT — appearance/work-of-breathing/circulation, TICLS), croup vs epiglottitis vs bronchiolitis, febrile seizure, peds dehydration grading, SIDS, Broselow tape, newborn 30-second initial + resuscitation (3:1 ratio), meconium-stained fluid, premature infant, child abuse (TEN-4), elder abuse, special-needs (trach/G-tube/vent/autism), dementia vs delirium, bariatric transport, DNR/POLST/MOLST, peds trauma differences |
+| **Operations** | 52 | START triage colors + flow, hazmat zones, lifting body mechanics + move types, radio report structure, ICS/NIMS/MCI command structure, JumpSTART peds triage, air-medical criteria + LZ + helicopter approach, refusal of care (AMA), expressed/implied/minor consent, mental-health hold, HIPAA basics, PCR + SOAP + CHART documentation, due regard / EVOC / intersection clearing / lights-and-sirens, ambulance staging, hazmat placards (DOT + NFPA 704), decontamination, PPE levels A–D, BSI, sharps disposal, exposure post-incident, crime scene preservation, active-shooter / rescue task force, daily ambulance check |
 
-Total: **231 cards** (up from a 73-card v1 after atomicity rework — see
-`DECK_AUTHORING_LEARNINGS.md` for the rework process).
+Total: **433 cards** (231 v2 atomic rework → 433 v3 NREMT-thorough expansion;
+see `DECK_AUTHORING_LEARNINGS.md` for the multi-agent process).
 
 ## Editing
 

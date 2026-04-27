@@ -23,3 +23,5 @@ After a shock: immediately resume compressions for <b>2 minutes</b>, then re-ana
 Anterior–posterior placement (one between the nipples, one between the shoulder blades)
 is an acceptable alternative — useful in small adults and children with adult pads.
 Don't waste time choosing — the goal is "shocks flow."
+
+![AED pad placement on chest — anterolateral position (right upper chest, left mid-axillary)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Defibrilation_electrode_placement_svg_hariadhi.svg/600px-Defibrilation_electrode_placement_svg_hariadhi.svg.png)

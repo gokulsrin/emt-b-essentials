@@ -12,3 +12,5 @@ The three <b>body planes</b>:
 ## Extra
 
 Sagittal = splits body into left and right halves (mid-sagittal = equal halves). Transverse = horizontal cut (also called axial). Coronal = front-back split, also called the frontal plane.
+
+![Anatomical planes overlaid on a human body figure — sagittal, transverse, coronal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Human_anatomy_planes%2C_labeled.svg/600px-Human_anatomy_planes%2C_labeled.svg.png)

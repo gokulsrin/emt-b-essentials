@@ -15,3 +15,5 @@ tags  = ["emt", "anatomy", "abdomen"]
 ## Extra
 
 RUQ pain with radiation to the right shoulder suggests gallbladder pathology (Murphy's sign). RLQ pain with rebound tenderness suggests appendicitis (McBurney's point). Always document pain by quadrant in your assessment.
+
+![Abdominal quadrants with organs labeled — RUQ, LUQ, RLQ, LLQ](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/LLQlabled.PNG/600px-LLQlabled.PNG)

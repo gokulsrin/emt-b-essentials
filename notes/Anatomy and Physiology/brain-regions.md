@@ -12,3 +12,5 @@ Major <b>brain regions</b>:
 ## Extra
 
 The brainstem (midbrain, pons, medulla) controls life-sustaining functions — herniation at this level is fatal. The cerebellum is at the posterior fossa; posterior stroke causes ataxia and vertigo. The hypothalamus regulates temperature and the autonomic nervous system.
+
+![Sagittal section of human brain showing cerebrum, cerebellum, brainstem (Sobotta 1909)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sobo_1909_624.png/600px-Sobo_1909_624.png)

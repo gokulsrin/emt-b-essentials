@@ -12,3 +12,5 @@ tags  = ["emt", "anatomy", "gastrointestinal"]
 ## Extra
 
 The small intestine (duodenum, jejunum, ileum) is the main site of nutrient absorption. The large intestine absorbs water and forms stool. Obstruction at any level causes pain, distension, and vomiting — location of symptoms helps localize the level.
+
+![Human digestive system labeled diagram — full GI tract from mouth to anus](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Digestive_system_diagram_en.svg/600px-Digestive_system_diagram_en.svg.png)

@@ -13,3 +13,5 @@ tags  = ["emt", "operations", "triage", "start", "mci"]
 
 Assess in this order for every non-ambulatory patient during MCI triage (~30 seconds per patient).
 Walking patients are tagged Green before RPM assessment begins.
+
+![START triage flowchart — Walk/Respirations/Perfusion/Mental status decision tree with red/yellow/green/black tags](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/START.svg/600px-START.svg.png)

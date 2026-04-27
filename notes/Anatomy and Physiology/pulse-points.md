@@ -18,3 +18,5 @@ tags  = ["emt", "anatomy", "cardiovascular", "pulse"]
 ## Extra
 
 Central pulses (carotid, femoral) are present even in severe shock; loss of peripheral pulses with an intact central pulse suggests shock or distal arterial injury. Loss of central pulse with no breathing = start CPR immediately.
+
+![Pulse evaluation sites on the human body — carotid, brachial, radial, femoral, popliteal, posterior tibial, dorsalis pedis](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pulse_sites-en.svg/600px-Pulse_sites-en.svg.png)

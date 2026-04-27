@@ -12,3 +12,5 @@ Head & neck {{c1::9%}}, each arm {{c1::9%}}, anterior trunk {{c1::18%}}, posteri
 ## Extra
 
 Count only partial- and full-thickness burns; exclude superficial (sunburn-type) reddening. The named percentages sum to 100%: 9 (head) + 9+9 (arms) + 18+18 (trunk) + 18+18 (legs) + 1 (genitalia) = 100%.
+
+![Wallace rule of nines — adult body chart with %TBSA labeled](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Wallace_rule_of_nines-en.svg/600px-Wallace_rule_of_nines-en.svg.png)

@@ -11,3 +11,5 @@ tags  = ["emt", "operations", "hazmat", "scene_safety"]
 ## Extra
 
 Each quadrant is rated 0–4 (4 = most severe). White section may indicate OX (oxidizer), W with a bar (water-reactive), or SA (simple asphyxiant). Found on fixed storage facilities, not vehicles.
+
+![NFPA 704 fire diamond — red top (flammability), yellow right (reactivity), blue left (health), white bottom (special)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NFPA-704-diamond-standard.svg/600px-NFPA-704-diamond-standard.svg.png)

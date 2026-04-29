@@ -6,9 +6,8 @@ tags  = ["emt", "cardiology", "rosc", "post_arrest"]
 
 ## Text
 
-After <b>ROSC</b> (return of spontaneous circulation), EMT priorities:
-{{c1::support airway and breathing::airway}}, {{c1::monitor blood pressure::circulation}}, transport to a {{c1::PCI-capable hospital::destination}}.
+After <b>ROSC</b>, ventilate at {{c1::10–12 breaths/min::rate}} and target SpO₂ {{c1::94–99%::range}} — <u>do NOT hyperventilate</u>, which drops cerebral perfusion. Recheck pulse and BP every {{c2::5 minutes::interval}} and transport to a {{c2::PCI-capable hospital::destination}}.
 
 ## Extra
 
-Avoid hyperventilation post-ROSC (targets: 10–12 breaths/min, SpO₂ 94–99%). Hypotension after ROSC worsens neurological outcome — report BP trends to receiving facility.
+Hyperventilation causes hypocapnia → cerebral vasoconstriction → worse neurological outcomes. Hypotension after ROSC also worsens outcomes; report any SBP < 90 to medical direction. Re-arrest is common in the first 10 minutes — keep the AED attached and pads in place throughout transport.
